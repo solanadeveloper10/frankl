@@ -1465,8 +1465,13 @@
 					class="has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4333b69 exad-glass-effect-no exad-sticky-section-no"
 					data-id="4333b69" data-element_type="column">
 					<div class="elementor-widget-wrap elementor-element-populated">
+						<style>
+							.remove_border_radius-123 {
+								border-radius: unset !important;
+							}
+						</style>
 						<section
-							class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-a941243 elementor-section-full_width elementor-section-height-default elementor-section-height-default exad-glass-effect-no exad-sticky-section-no"
+							class="remove_border_radius-123 has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-a941243 elementor-section-full_width elementor-section-height-default elementor-section-height-default exad-glass-effect-no exad-sticky-section-no"
 							data-id="a941243" data-element_type="section"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
 							<style>
@@ -1478,6 +1483,8 @@
 									min-height: 100%;
 
 									opacity: 0.7;
+
+									object-fit: cover;
 								}
 							</style>
 							<video autoplay muted loop id="usaFlag">
@@ -1531,6 +1538,17 @@
 																			.custom-link {
 																				color: white !important;
 																				font-size: 24px !important;
+
+																				transition: all 0.2s ease;
+
+																				@media (max-width: 1024.98px) {
+																					color: black !important;
+																				}
+																			}
+
+																			.custom-link:hover {
+																				transform: scale(1.1) !important;
+																				color: yellow !important;
 																			}
 																		</style>
 																		<ul id="menu-main-menu"
@@ -1578,7 +1596,15 @@
 															data-id="8e4cce5" data-element_type="widget" data-widget_type="button.default">
 															<div class="elementor-widget-container">
 																<div class="elementor-button-wrapper">
-																	<a class="elementor-button elementor-button-link elementor-size-sm"
+																	<style>
+																		.buy-btn {
+																			background-color: yellow !important;
+																			color: black !important;
+
+																			font-size: 24px !important;
+																		}
+																	</style>
+																	<a class="elementor-button elementor-button-link elementor-size-sm buy-btn"
 																		href="https://jup.ag/swap/SOL-EK3WLA2JjmCwg6WfVD6ptEaq3JRsNsBrNuTnU3dupump"
 																		target="_blank">
 																		<span class="elementor-button-content-wrapper">
@@ -1595,11 +1621,26 @@
 										<section
 											class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-8731210 elementor-section-full_width elementor-section-height-default elementor-section-height-default exad-glass-effect-no exad-sticky-section-no"
 											data-id="8731210" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-											<div class="elementor-container elementor-column-gap-default">
+											<style>
+												.hero-container-26262 {
+													@media (max-width: 1024.98px) {
+														display: flex !important;
+														flex-direction: column !important;
+														align-items: center;
+													}
+
+												}
+											</style>
+											<div class="elementor-container elementor-column-gap-default hero-container-26262">
 												<div
 													class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b3ea1dd exad-glass-effect-no exad-sticky-section-no"
 													data-id="b3ea1dd" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
+													<style>
+														.custom-gap {
+															gap: 10px;
+														}
+													</style>
+													<div class="elementor-widget-wrap elementor-element-populated custom-gap">
 														<div
 															class="elementor-element elementor-element-0a78c83 exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-elementskit-heading"
 															data-id="0a78c83" data-element_type="widget"
@@ -1614,11 +1655,14 @@
 																				display: inline-block;
 																				border-radius: 30px;
 																				padding: 10px 50px;
+
+																				margin-bottom: 10px !important;
+
+																				font-weight: 600 !important;
 																			}
 																		</style>
 																		<h2 class="ekit-heading--title elementskit-section-title custom-h2">
-																			<span><span>TRUMP
-																					JR</span></span> OFFCIAL
+																			FRANKLIN OFFICIAL
 																		</h2>
 																	</div>
 																</div>
@@ -1628,7 +1672,20 @@
 															class="elementor-element elementor-element-9f2f73b exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-text-editor"
 															data-id="9f2f73b" data-element_type="widget" data-widget_type="text-editor.default">
 															<div class="elementor-widget-container">
-																<p>The Official Trump Jr. Meme Coin<br>$TRUMPJR is now live on Solana!</p>
+																<style>
+																	.custom-par {
+																		color: #fff900 !important;
+																		background-color: rgba(0, 0, 0, 0.4) !important;
+																		display: inline-block !important;
+
+																		padding: 10px 50px !important;
+																		border-radius: 30px !important;
+
+																		margin-block-end: unset !important;
+																	}
+																</style>
+																<p class="custom-par">The Official $FRANKL. Meme Coin<br>$TRUMPJR is now live on
+																	Solana!</p>
 															</div>
 														</div>
 														<div
@@ -1704,57 +1761,48 @@
 																<!-- end Copy Coupon Code -->
 															</div>
 														</div>
-														<section
-															class="has_eae_slider elementor-section elementor-inner-section elementor-element elementor-element-c032ea0 elementor-section-boxed elementor-section-height-default elementor-section-height-default exad-glass-effect-no exad-sticky-section-no"
-															data-id="c032ea0" data-element_type="section"
-															data-settings="{&quot;_ha_eqh_enable&quot;:false}">
-															<div class="elementor-container elementor-column-gap-default">
-																<div
-																	class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-74bff03 exad-glass-effect-no exad-sticky-section-no"
-																	data-id="74bff03" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-184a62e exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-button"
-																			data-id="184a62e" data-element_type="widget" data-widget_type="button.default">
-																			<div class="elementor-widget-container">
-																				<div class="elementor-button-wrapper">
-																					<a class="elementor-button elementor-button-link elementor-size-sm"
-																						href="https://jup.ag/swap/SOL-EK3WLA2JjmCwg6WfVD6ptEaq3JRsNsBrNuTnU3dupump"
-																						target="_blank">
-																						<span class="elementor-button-content-wrapper">
-																							<span class="elementor-button-text">BUY NOW</span>
-																						</span>
-																					</a>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
+														<section>
+															<style>
+																.custom-btn {
+																	background-color: yellow;
+																	color: black !important;
+
+																	font-size: 24px !important;
+
+																	font-family: "Tahoma", Sans-serif;
+																	font-weight: 600;
+
+																	border-radius: 10px 10px 10px 10px;
+																}
+
+																.custom-btn:hover {
+																	transform: scale(1.1);
+																}
+
+																.btn-container-234 {
+																	display: flex;
+																	gap: 50px;
+																}
+															</style>
+															<div class="btn-container-234">
+																<div class="">
+																	<a class="elementor-button elementor-button-link elementor-size-sm custom-btn"
+																		href="https://jup.ag/swap/SOL-EK3WLA2JjmCwg6WfVD6ptEaq3JRsNsBrNuTnU3dupump"
+																		target="_blank">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">BUY NOW</span>
+																		</span>
+																	</a>
 																</div>
-																<div
-																	class="has_eae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eca245d exad-glass-effect-no exad-sticky-section-no"
-																	data-id="eca245d" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-ddbec67 elementor-mobile-align-right exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-button"
-																			data-id="ddbec67" data-element_type="widget" data-widget_type="button.default">
-																			<div class="elementor-widget-container">
-																				<div class="elementor-button-wrapper">
-																					<style>
-																						.custom-btn:hover {
-																							transform: scale(1.1);
-																						}
-																					</style>
-																					<a class="elementor-button elementor-button-link elementor-size-sm custom-btn"
-																						href="https://dexscreener.com/solana/hj2dzgrmj5x5lch4ephr1cprpjfvzgjk99fv6p3ktvs9"
-																						target="_blank" style="">
-																						<span class="elementor-button-content-wrapper">
-																							<span class="elementor-button-text">LIVE CHART</span>
-																						</span>
-																					</a>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
+																<div class="">
+
+																	<a class="elementor-button elementor-button-link elementor-size-sm custom-btn"
+																		href="https://dexscreener.com/solana/hj2dzgrmj5x5lch4ephr1cprpjfvzgjk99fv6p3ktvs9"
+																		target="_blank" style="">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">LIVE CHART</span>
+																		</span>
+																	</a>
 																</div>
 															</div>
 														</section>
@@ -1800,8 +1848,7 @@
 													<div
 														class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
 														<h2 class="ekit-heading--title elementskit-section-title ">ABOUT <span
-																style="color: #C41220;">TRUMP
-																JR</span></h2>
+																style="color: #C41220;">$FRANKL</span></h2>
 													</div>
 												</div>
 											</div>
@@ -1879,7 +1926,7 @@
 													<div
 														class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
 														<h2 class="ekit-heading--title elementskit-section-title ">TOKENOMICS <span
-																style="color: #C41220;">TRUMP JR</span></h2>
+																style="color: #C41220;">$FRANKL</span></h2>
 													</div>
 												</div>
 											</div>
@@ -1946,7 +1993,7 @@
 															class="elementor-element elementor-element-c8f0530 exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-heading"
 															data-id="c8f0530" data-element_type="widget" data-widget_type="heading.default">
 															<div class="elementor-widget-container">
-																<h2 class="elementor-heading-title elementor-size-default">$TRUMPJR</h2>
+																<h2 class="elementor-heading-title elementor-size-default">$FRANKL</h2>
 															</div>
 														</div>
 													</div>
@@ -2074,8 +2121,9 @@
 								<div class="ekit-wid-con">
 									<div
 										class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
-										<h2 class="ekit-heading--title elementskit-section-title ">CONTRACT ADDRESS <span><span>TRUMP
-													JR</span></span></h2>
+										<h2 class="ekit-heading--title elementskit-section-title ">CONTRACT ADDRESS
+											<span><span>$FRANKL</span></span>
+										</h2>
 									</div>
 								</div>
 							</div>
@@ -2176,8 +2224,9 @@
 								<div class="ekit-wid-con">
 									<div
 										class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
-										<h2 class="ekit-heading--title elementskit-section-title ">Join the <span><span>TRUMP
-													JR</span></span> Community!</h2>
+										<h2 class="ekit-heading--title elementskit-section-title ">Join the
+											<span><span>$FRANKL</span></span> Community!
+										</h2>
 									</div>
 								</div>
 							</div>
@@ -2254,7 +2303,7 @@
 							class="elementor-element elementor-element-b3aed68 exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-text-editor"
 							data-id="b3aed68" data-element_type="widget" data-widget_type="text-editor.default">
 							<div class="elementor-widget-container">
-								© 2025 Trump JR. All rights reserved. </div>
+								© 2025 $Frankl. All rights reserved. </div>
 						</div>
 					</div>
 				</div>
@@ -2402,7 +2451,7 @@
 		id="elementor-pro-frontend-js"></script>
 	<script src="wp-includes/js/jquery/ui/core.min-1.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 	<script id="elementor-frontend-js-before">
-		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.26.5", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "e_swiper_latest": true, "e_nested_atomic_repeaters": true, "e_onboarding": true, "e_css_smooth_scroll": true, "theme_builder_v2": true, "hello-theme-header-footer": true, "home_screen": true, "editor_v2": true, "e_element_cache": true, "link-in-bio": true, "floating-buttons": true, "launchpad-checklist": true }, "urls": { "assets": "https:\/\/trumpjrcoinsol.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/trumpjrcoinsol.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/trumpjrcoinsol.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "4729135554" }, "swiperClass": "swiper", "settings": { "page": { "ha_cmc_init_switcher": "no" }, "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "title", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo", "ha_rpb_enable": "no" }, "post": { "id": 9, "title": "%20TRUMP%20JR%20%E2%80%93%20The%20Official%20Trump%20Jr", "excerpt": "", "featuredImage": false } };
+		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.26.5", "is_static": false, "experimentalFeatures": { "e_font_icon_svg": true, "additional_custom_breakpoints": true, "e_swiper_latest": true, "e_nested_atomic_repeaters": true, "e_onboarding": true, "e_css_smooth_scroll": true, "theme_builder_v2": true, "hello-theme-header-footer": true, "home_screen": true, "editor_v2": true, "e_element_cache": true, "link-in-bio": true, "floating-buttons": true, "launchpad-checklist": true }, "urls": { "assets": "https:\/\/trumpjrcoinsol.com\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/trumpjrcoinsol.com\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/trumpjrcoinsol.com\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "4729135554" }, "swiperClass": "swiper", "settings": { "page": { "ha_cmc_init_switcher": "no" }, "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "title", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo", "ha_rpb_enable": "no" }, "post": { "id": 9, "title": "%20FRANKL%20%20%E2%80%93%20The%20Official%20Frankl", "excerpt": "", "featuredImage": false } };
 	</script>
 	<script src="wp-content/plugins/elementor/assets/js/frontend.min-1.js?ver=3.26.5" id="elementor-frontend-js"></script>
 	<script src="wp-content/plugins/elementor-pro/assets/js/elements-handlers.min-1.js?ver=3.26.3"
