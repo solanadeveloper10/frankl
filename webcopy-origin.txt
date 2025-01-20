@@ -1,0 +1,668 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Bebas+Neue:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\bebasneue\v14\JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://trumpjrcoinsol.com/
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\index-1.htm
+Content Type: text/html
+
+Uri: https://trumpjrcoinsol.com/comments/feed/
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://trumpjrcoinsol.com/feed/
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-left.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.14
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\eae.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digit-sep-svg.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digit-sep-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digits-svg-alpha.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digits-svg-alpha.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\animated-main.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\eae.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\iconHelper-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\particles.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\magnific.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.14
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\peel\peel-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\addon-elements-for-elementor-page-builder\build\index.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.26.3
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.26.3
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.26.3
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-heading.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-image.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-spacer.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\css\widget-text-editor.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.5
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.10.78
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.3.7
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.1.0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/css/exad-styles.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\css\exad-styles.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\fonts\exad-logo.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.svg?1gib8x
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\fonts\exad-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.ttf?1gib8x
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\fonts\exad-logo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.woff?1gib8x
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\fonts\exad-logo.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/js/exad-scripts.min.js?ver=2.7.6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\js\exad-scripts.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/css/imagehover.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\css\imagehover-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/css/slick-theme.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\css\slick-theme.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/css/slick.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\css\slick.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/css/swiper.min.css?ver=2.7.6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/exclusive-addons-for-elementor/assets/vendor/js/jquery.sticky-sidebar.js?ver=2.7.6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\exclusive-addons-for-elementor\assets\vendor\js\jquery.sticky-sidebar-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.min.css?ver=3.15.2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.svg
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff2
+Content Type: font/woff2
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.15.2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?ver=3.15.2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\js\extension-reading-progress-bar.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.15.2
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/admin/assets/css/admin-bar.css?ver=4.10.78
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\admin\assets\css\admin-bar-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/admin/assets/js/admin-bar.js?ver=4.10.78
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\admin\assets\js\admin-bar-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?1jmcw0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?1jmcw0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements-1.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?1jmcw0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?1jmcw0
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements-1.woff
+Content Type: application/font-woff
+
+Uri: https://trumpjrcoinsol.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.78
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.2.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\themes\hello-elementor\header-footer.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/themes/hello-elementor/style.min.css?ver=3.2.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\themes\hello-elementor\style.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.2.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\themes\hello-elementor\theme.min-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750-300x240.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750-300x240-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750-768x614.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750-768x614-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\6fc0533e-cfec-4518-ade5-222b92038e00-e1737294337750-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-227x300.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-227x300-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-768x1015.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-768x1015-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-775x1024.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-775x1024-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/9ddd1a41-5def-4a28-b5a9-c248ff4d87ea.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-180x180.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-180x180-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-192x192.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-192x192-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-32x32.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\cropped-9ddd1a41-5def-4a28-b5a9-c248ff4d87ea-32x32-1.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/f78c966b-6974-4c19-acb8-6eb582632cf4.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\f78c966b-6974-4c19-acb8-6eb582632cf4.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/star.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\star.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/stars-stripes-3_1stars-stripes-3-scaled.webp
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\stars-stripes-3_1stars-stripes-3-scaled.webp
+Content Type: image/webp
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/2025/01/trump-silhouette.png
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\2025\01\trump-silhouette.png
+Content Type: image/png
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/elementor/css/post-8.css?ver=1737365200
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\elementor\css\post-8-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-content/uploads/elementor/css/post-9.css?ver=1737365200
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-content\uploads\elementor\css\post-9-1.css
+Content Type: text/css
+
+Uri: https://trumpjrcoinsol.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://trumpjrcoinsol.com/wp-json/
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://trumpjrcoinsol.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrumpjrcoinsol.com%2F
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://trumpjrcoinsol.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrumpjrcoinsol.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://trumpjrcoinsol.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\wp-json\wp\v2\pages\9-1
+Content Type: application/json
+
+Uri: https://trumpjrcoinsol.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\trumpjrcoinsol.com\xmlrpc-1.php
+Content Type: text/xml
+
